@@ -1,4 +1,4 @@
-### Node.js SaaS App sample
+# Node.js SaaS App sample
 
 ## Abstract
 This is a sample of a Software as a Service application on Node.js with Express.js, MySQL and MongoDB (implementing REST API, of course). 
