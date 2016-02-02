@@ -1,0 +1,14 @@
+{
+  "development": {
+    "storage": "components/db/saas.sqlite",
+    "dialect": "sqlite"
+  },
+  "test": {
+    "storage": "components/db/saas.sqlite",
+    "dialect": "sqlite"
+  },
+  "production": {
+    "storage": "components/db/saas.sqlite",
+    "dialect": "sqlite"
+  }
+}
